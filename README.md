@@ -50,7 +50,6 @@
   <img src="https://cdn.brandfetch.io/idM2-b7Taf/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751118824499" height="50"/>
 </a>
 
-
 ---
 
 ## 🛠️ Languages & Tools  
@@ -68,14 +67,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallikondarakshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="165"/>
-</p>
-
----
-
 
 ## 🏆 Achievements
 - **Academic Excellence Award**  
